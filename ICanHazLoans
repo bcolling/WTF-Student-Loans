@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title> WTF Student Loans </title> 
+		<link rel="stylesheet" type="text/css" href="WTFstudentloans.css">
+	</head>
+	<body>
+		<ul id="nav"> 
+			<li><a href="WTFstudentloans.html">Home</a></li>
+			<li><a href="icanhazloans.html">I Can Haz Loans?</a></li>
+			<li><a href="linksonlinks.html">Links on Links</a></li>
+			<li><a href="thefuture.html">The FuTuRe</a></li>
+		</ul>
+		<br>
+		<div class="clear"></div>
+		<div id="wrapper">
+			<h1>WTF Student Loans</h1>
+			<h2>Cause this shit is nuts.</h2> 
+		</div>
+		<br>
+		<!-- Beginning of intro section --> 
+		<div id="intro">
+			<p>There are a whole lot of loans you can get. Here are a few.</p>
+				<h2>
+				Stafford Subsidized Loans
+				</h2>
+					<p> 
+					Description
+					</p>
+				<h2>
+				Stafford Unsubsidized Loans
+				</h2>
+					<p>
+					Descritpion
+					</p>
+		</div>
